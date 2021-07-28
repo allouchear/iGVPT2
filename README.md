@@ -1,7 +1,7 @@
 How to install it 
 =================
 
-You can download  the iGVPT2_Linux_64.tar.gz 
+Download  iGVPT2_Linux_64.tar.gz 
 
 Save it in your HOME directory and under a terminal,  Type :  tar -zxvf  iGVPT2*.tar.gz
 
