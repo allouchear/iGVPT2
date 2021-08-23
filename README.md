@@ -5,7 +5,7 @@ Download  iGVPT2_Linux_64.tar.gz
 
 Save it in your HOME directory and under a terminal,  Type :  tar -zxvf  iGVPT2*.tar.gz
 
-How to user it
+How to use it
 ==============
 
 Few example files  are given in "examples" directory.
