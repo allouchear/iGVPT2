@@ -45,6 +45,12 @@ If you used Neural Networks potential, please cite :
 
     Combining quantum mechanics and machine-learning calculations for anharmonic corrections to vibrational frequencies. J Lam, S Abdul-Al, AR Allouche.  J. Chem. Theory Comput. 2020, 1681-1689.https://doi.org/10.1021/acs.jctc.9b00964.
     Parallel Multistream Training of High-Dimensional Neural Network Potentials. Singraber, A.; Morawietz, T.; Behler, J.; Dellago, C. J. Chem. Theory Comput. 2019, 15 (5), 3075–3092. https://doi.org/10.1021/acs.jctc.8b01092.
+
+## Contributors
+
+The code is written by Abdul-Rahman Allouche.\
+The manual is writen by Loïc Barnes.\
+Testing adn Debugging : Loïc Barnes, Baptiste Schindler, Isabelle Compagnon, Abdul-Rahman Allouche
     
 ## User register
 
