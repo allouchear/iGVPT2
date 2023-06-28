@@ -7,7 +7,20 @@ iGVPT2 - A program for computing anharmonic corrections to vibration frequencies
 
 Download  iGVPT2_Linux_64.tar.gz 
 
-Save it in your HOME directory and under a terminal,  Type :  tar -zxvf  iGVPT2*.tar.gz
+Save it in your HOME directory and under a terminal,  Type : 
+```console
+tar -zxvf  iGVPT2*.tar.gz
+```
+To compile cchemi from source :\
+Requirements : cchemilib ([see github](https://github.com/allouchear/cchemi))
+
+dowanload **iGVPT2SRC.zip**
+```console
+unzip iGVPT2SRC
+cd iGVPT2SRC
+./cleanigvpt2.sh
+./compigvpt2.sh
+```
 
 ## How to use it
 
