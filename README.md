@@ -35,7 +35,17 @@ A (small) user manual is available from :  [Manual](https://docs.google.com/view
 
 The description of the methods implemented in iGVPT2 is given in this document : https://arxiv.org/abs/1704.02144
 
+## Citations
 
+If you used Hybrid method in iGVPT2, please cite :
+
+    Fast and Accurate Hybrid QM//MM Approach for Computing, Anharmonic Corrections to Vibrational Frequencies, Loïc Barnes, Baptiste Schindler, Isabelle Compagnon and Abdul-Rahman Allouche, Journal of Molecular Modeling 22, 285 (2016).
+
+If you used Neural Networks potential, please cite :
+
+    Combining quantum mechanics and machine-learning calculations for anharmonic corrections to vibrational frequencies. J Lam, S Abdul-Al, AR Allouche. Journal of chemical theory and computation 16 (3), 1681-1689
+    Parallel Multistream Training of High-Dimensional Neural Network Potentials. Singraber, A.; Morawietz, T.; Behler, J.; Dellago, C. J. Chem. Theory Comput. 2019, 15 (5), 3075–3092. https://doi.org/10.1021/acs.jctc.8b01092
+    
 ## User register
 
 PLEASE register as a iGVPT2 User. This will help to keep up the support for iGVPT2. There is no commitment involved whatsoever.  [Click here to register.](https://docs.google.com/forms/d/e/1FAIpQLSc1wHwn9g3JN2rvYW0dNS-7Xf3dWE3WJ75jP3C6YP1aBgUEeQ/viewform)
