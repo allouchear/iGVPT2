@@ -50,7 +50,7 @@ If you used Neural Networks potential implemented in iGVPT2, please cite :
 
 The code is written by Abdul-Rahman Allouche.\
 The manual is writen by Loïc Barnes.\
-Testing adn Debugging : Loïc Barnes, Baptiste Schindler, Isabelle Compagnon, Abdul-Rahman Allouche
+Testing and Debugging : Loïc Barnes, Baptiste Schindler, Isabelle Compagnon, Abdul-Rahman Allouche
     
 ## User register
 
