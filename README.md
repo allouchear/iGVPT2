@@ -28,7 +28,7 @@ Few example files  are given in "examples" directory.
 
 ## Manual
 
-A (small) user manual is available from :  [Manual](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhbGxvdWNoZWFyfGd4Ojc4NDkxZjIwMWYwODg0Mzc)
+A (small) user manual is available from :  [Manual](https://drive.google.com/file/d/1J5mBFCKVpgiopJShj1lIxip78iyolYJz/view?usp=drive_web)
 
 
 ## Methods
