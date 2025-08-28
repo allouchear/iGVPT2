@@ -11,7 +11,7 @@ Save it in your HOME directory and under a terminal,  Type :
 ```console
 tar -zxvf  iGVPT2*.tar.gz
 ```
-To compile cchemi from source :\
+To compile iGVPT2 from source :\
 Requirements : cchemilib ([see github](https://github.com/allouchear/cchemi))
 
 dowanload **iGVPT2SRC.zip**
